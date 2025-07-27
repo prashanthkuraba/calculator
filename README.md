@@ -45,8 +45,7 @@ This is a **basic calculator** built with **HTML, CSS, and JavaScript**. It perf
 
    
 bash
-   git clone https://github.com/yourusername/simple-calculator.git
-
+   git clone https://github.com/prashanthkuraba/calculator
 2. **Open the HTML file**
 
    
